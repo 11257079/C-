@@ -1,4 +1,6 @@
-	#include <iostream>
+//Write a C++ programming to check the even/odd integer and its range.
+
+#include <iostream>
 	using namespace std;
 	int main(){
 		int n;
