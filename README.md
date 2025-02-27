@@ -61,17 +61,6 @@ Loops (for, while, do-while)
 
 Functions and Mathematical Operations
 
-Contributing
-
-If you want to contribute to this repository, feel free to fork the project and submit pull requests.
-
-License
-
-This project is open-source and available under the MIT License.
-
-Author
-
-11257079
 
 Happy Coding! 🚀
 
