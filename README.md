@@ -40,7 +40,7 @@ How to Run the Programs
 
 Clone the repository:
 
-git clone https://github.com/11257079/your-repository-name.git
+git clone https://github.com/11257079/C-.git
 
 Navigate to the project directory:
 
